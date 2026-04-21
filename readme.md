@@ -178,7 +178,7 @@ npm run dev
 
 ### 5. Open the App
 
-Visit: [https://github.com/abhishek-chauhan428/Smart-Study-Planner]
+Visit: [https://smart-study-planner-l4g7.vercel.app/dashboard]
 
 ---
 
